@@ -1,5 +1,3 @@
 <?php
- echo "HELLO";
+ echo date(date_rss);
 
- $a = 'lesson';
- $b = 'lesson2';
