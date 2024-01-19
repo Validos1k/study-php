@@ -1,5 +1,4 @@
 <?php
- echo "HELLO";
-
- $a = 'lesson';
- $b = 'lesson2';
+if(mt_rand(0,1))
+?>
+<div style="color: Blue">Синій текст</div>;}
