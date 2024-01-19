@@ -1,3 +1,3 @@
 <?php
- echo date(format: date_rss);
+ echo date(format: date_ua );
 
